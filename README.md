@@ -26,7 +26,7 @@ The app should have two views:
 - List View
     - a scrollable list of phonebook entries
     - each entry contains a profile pic (a circle with the person's initials), full name and phone number
-    - a search bar that filters the list to only entries that contain the search query in either the name or number
+    - a search bar that filters the list to only entries that contain the search query in the persons name
     - clicking a person opens the detail view
 - Detail View
     - a form with editable input fields for all data pertaining to a single person
